@@ -1,1 +1,1 @@
-Innoverse Hackathon Idea. 2025.
+crazy resume project pt2.
