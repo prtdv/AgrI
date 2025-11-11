@@ -39,7 +39,7 @@ cd KisanSevak
 
 npm install
 
-reate a .env File in the Project Root
+create a .env File in the Project Root
 
 Add the following environment variables:
 
@@ -48,8 +48,9 @@ VITE_SUPABASE_ANON_KEY=<your-supabase-anon-key>
 VITE_GEMINI_API_KEY=<your-gemini-api-key>
 VITE_MAPBOX_ACCESS_TOKEN=<your-mapbox-token>
 
- Start the Development Server
+Start the Development Server
 npm run dev
+
 
 
 
