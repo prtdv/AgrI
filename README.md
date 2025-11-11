@@ -3,7 +3,7 @@
 KisanSevak is a digital support platform designed to empower farmers with **weather-aware insights**, **AI-driven advisory**, and **market intelligence**. The platform integrates satellite-based farm area estimation, real-time crop price dashboards, and a fine-tuned conversational assistant to guide farmers in making informed agricultural decisions.
 
 ### Live Demo
-**URL:** https://<your-vercel-link>
+**URL:** https://kisansevak.vercel.app/
 
 ---
 
@@ -38,4 +38,5 @@ VITE_SUPABASE_URL=<your-supabase-url>
 VITE_SUPABASE_ANON_KEY=<your-supabase-anon-key>
 VITE_GEMINI_API_KEY=<your-gemini-api-key>
 VITE_MAPBOX_ACCESS_TOKEN=<your-mapbox-token>
+
 
